@@ -1,13 +1,13 @@
 # Site settings
-title: Andrew Hoefling - Life Through Code
-email: andrew@hoeflingsoftware.com
+title: Flour City Fear Men's Roller Derby
+email: andrew@flourcityfear.com
 description: > # this means to ignore newlines until "baseurl:"
   My adventures through software development in the world of .NET.
   Blog posts will focus on a new issue, achievment or technology
   that I am currently working with. You will find how-to guides and
   recommendations through the blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.andrewhoefling.com" # the base hostname & protocol for your site
+url: "http://www.flourcityfear.com" # the base hostname & protocol for your site
 fullname: Andrew Hoefling
 twitter_username: ahoefling
 github_username:  ahoefling
