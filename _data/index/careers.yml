@@ -1,29 +1,49 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: 'Flour City Fear vs Shenanigans'
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 'Regulation Game against PennJersey Hooligans B-Team'
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 'May 20, 2017'
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 'Binghampton, NY'
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: 'Flour City Fear vs Cleveland, OH vs Portland. ME'
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 'MRDA Sanctioned Round Robin against Cleveland Guardians (Cleveland, OH) and Casco Bay Gentlmen''s Roller Derby (Portland, ME)'
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 'June 17, 2017'
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 'Rochester, NY @ The House of Bruise'
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 'Flour City Fear vs @ Quadfathers'
+  desc:
+    detail: 'MRDA Regulation game against the Central New York Quadfathers (Rome, NY)'
+  date:
+    detail: 'July 22, 2017'
+  job:
+    detail: 'Rome, NY @ JFK Arena'
+  icon: fa-plus-square
+
+- name:
+    detail: 'Flour City Fear vs Pittsburgh East Roller Villans'
+  desc:
+    detail: 'MRDA Sanctioned game against Pittsburgh East Roller Villians of Pittsburgh, PA'
+  date:
+    detail: 'July 29, 2017'
+  job:
+    detail:  'Rochester, NY @ The House of Bruise'
   icon: fa-plus-square
