@@ -9,7 +9,7 @@
   date:
     detail: 'May 20, 2017'
     i18n: company_a_date
-  job:
+  location:
     detail: 'Binghampton, NY'
     i18n: company_a_job
   icon: fa-plus-square
@@ -23,7 +23,7 @@
   date:
     detail: 'June 17, 2017'
     i18n: company_b_date
-  job:
+  location:
     detail: 'Rochester, NY @ The House of Bruise'
     i18n: company_b_job
   icon: fa-plus-square
@@ -34,7 +34,7 @@
     detail: 'MRDA Regulation game against the Central New York Quadfathers (Rome, NY)'
   date:
     detail: 'July 22, 2017'
-  job:
+  location:
     detail: 'Rome, NY @ JFK Arena'
   icon: fa-plus-square
 
@@ -44,6 +44,6 @@
     detail: 'MRDA Sanctioned game against Pittsburgh East Roller Villians of Pittsburgh, PA'
   date:
     detail: 'July 29, 2017'
-  job:
+  location:
     detail:  'Rochester, NY @ The House of Bruise'
   icon: fa-plus-square
