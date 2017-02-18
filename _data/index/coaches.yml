@@ -1,0 +1,17 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Head Coach Karma
+  i18n: karma
+  gh_user: karma
+  repo: karma
+  img: /static/assets/img/landing/head-coach.png
+  desc: 'Spicy jalapeno bacon ipsum dolor amet brisket mollit ball tip chicken. Shankle jerky anim, ham hock aute magna enim ut ribeye pork chop dolore strip steak tongue pig consequat. Voluptate anim laboris, turkey in velit salami leberkas et cillum cow jowl pork loin strip steak ball tip. Frankfurter short ribs aliqua boudin. Beef ribs pork chop venison, dolore leberkas bresaola tail sirloin.'
+
+- name: Assistant Coach Howly
+  i18n: Howly
+  gh_user: howly
+  repo: howly
+  img: /static/assets/img/landing/assitant-coach.png
+  desc: 'Tenderloin venison jerky ham alcatra capicola sausage meatball prosciutto swine tongue spare ribs pork. Salami pancetta hamburger turkey brisket ball tip sausage andouille bacon flank. Pork chop flank spare ribs, meatloaf frankfurter chicken capicola short ribs. Porchetta biltong tail, picanha tenderloin spare ribs pastrami corned beef chicken prosciutto burgdoggen shankle turducken.'
+

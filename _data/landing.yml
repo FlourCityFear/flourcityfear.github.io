@@ -12,10 +12,22 @@
   tpl: schedule.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
+- id: coaches
+  i18n: nav.coaches
+  name: Coaches
+  tpl: coaches.html
+  css: team
+
+- id: skaters
+  il8n: nav.skaters
+  name: Skaters
+  tpl: skaters.html
+  css: team
+
+- id: staff
+  il8n: nav.staff
+  name: Staff
+  tpl: staff.html
   css: team
 
 - id: projects
