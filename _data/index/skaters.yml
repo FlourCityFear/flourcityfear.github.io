@@ -1,0 +1,66 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Joshua Ingalls
+  img: /static/assets/img/landing/head-coach.png
+
+- name: Andrew Hoefling
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Matt Biondic
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Torque Chop
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Jabber Whacky
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Chris Schramm
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Dick Move
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Cashman
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: T.N.T.
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Colossus
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Van Hits
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Apex Predator
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Aaron Schriano
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Gable Costello
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Shawn West
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Mic Drop
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Killer Guts
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Jim Ruffo
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Oxen
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Anthony Puleo
+  img: /static/assets/img/landing/assitant-coach.png
+
+- name: Sir Jon
+  img: /static/assets/img/landing/assitant-coach.png
+
