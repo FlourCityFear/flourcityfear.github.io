@@ -24,20 +24,14 @@
   tpl: skaters.html
   css: team
 
-- id: staff
-  il8n: nav.staff
-  name: Staff
-  tpl: staff.html
-  css: team
-
 - id: blog
   i18n: nav.blog
   name: Blog
   tpl: blog.html
   css: testimonials navy-section
 
-- id: links
-  i18n: nav.link
-  name: Links
-  tpl: links.html
+- id: staff
+  i18n: nav.staff
+  name: Staff
+  tpl: staff.html
   css: contact
