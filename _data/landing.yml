@@ -6,6 +6,12 @@
   tpl: about.html
   css:
 
+- id: blog
+  il8n: nav.blog
+  name: Blog
+  tpl: blog.html
+  css: testimonials navy-section
+
 - id: schedule
   i18n: nav.schedule
   name: Schedule
@@ -23,12 +29,6 @@
   name: Skaters
   tpl: skaters.html
   css: team
-
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  css: testimonials navy-section
 
 - id: staff
   i18n: nav.staff
