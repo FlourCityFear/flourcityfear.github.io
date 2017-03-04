@@ -1,66 +1,66 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Joshua Ingalls
-  img: /static/assets/img/landing/head-coach.png
+- name: Rad
+  img: /static/assets/img/landing/rad.png
 
 - name: Andrew Hoefling
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/hoefling.png
 
 - name: Matt Biondic
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/biondic.png
 
 - name: Torque Chop
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/torque-chop.png
 
 - name: Jabber Whacky
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/jabber.png
 
 - name: Chris Schramm
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/schramm.png
 
 - name: Dick Move
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/dick-move.png
 
 - name: Cashman
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/cashman.png
 
 - name: T.N.T.
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/tnt.png
 
 - name: Colossus
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/colossus.png
 
 - name: Van Hits
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/van-hits.png
 
 - name: Apex Predator
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/apex-predator.png
 
-- name: Aaron Schriano
-  img: /static/assets/img/landing/assitant-coach.png
+- name: Aaron Schirano
+  img: /static/assets/img/landing/schirano.png
 
 - name: Gable Costello
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/costello.png
 
 - name: Shawn West
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/west.png
 
 - name: Mic Drop
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/mic-drop.png
 
 - name: Killer Guts
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/killher-guts.png
 
 - name: Jim Ruffo
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/ruffo.png
 
 - name: Oxen
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/oxen.png
 
 - name: Anthony Puleo
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/puleo.png
 
 - name: Sir Jon
-  img: /static/assets/img/landing/assitant-coach.png
+  img: /static/assets/img/landing/sir-jon.png
 
