@@ -2,11 +2,11 @@
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1><span data-i18n="projects.my_projects">My Projects</span></h1>
+            <h1><span data-i18n="projects.my_projects">Coaches</span></h1>
         </div>
     </div>
     <div class="row">
-        {% for project in site.data.index.projects %}
+        {% for coach in site.data.index.coaches %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
@@ -18,18 +18,18 @@
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
-                  <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                  <img src="{{ coach.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
                   <h4>
-                  {% if project.repo %}
-                  <a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
+                  {% if coach.repo %}
+                  <a href="https://github.com/{{ coach.gh_user }}/{{ coach.repo }}" target="_blank"><span class="navy">{{ coach.name }}</span></a>
                   {% else %}
-                  <span class="navy">{{ project.name }}</span>
+                  <span class="navy">{{ coach.name }}</span>
                   {% endif %}
                   </h4>
-                  <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
-                  {% if project.repo %}
-                  <div user="{{ project.gh_user }}" repo="{{ project.repo }}" class="ghbtn">
-                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
+                  <p><span data-i18n="coaches.{{ coach.i18n }}">{{ coach.desc }}</span></p>
+                  {% if coach.repo %}
+                  <div user="{{ coach.gh_user }}" repo="{{ coach.repo }}" class="ghbtn">
+                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ coach.gh_user }}/{{ coach.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
                       <a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
                       <div style="height: 10px;"></div>
                   </div>

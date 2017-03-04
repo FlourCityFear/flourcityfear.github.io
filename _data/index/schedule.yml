@@ -1,0 +1,59 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: 'March Man-ness Tournament'
+  desc:
+    detail: '<strong>Flour City Fear vs Mass Maelstrom</strong><br />Invitational Men''s Roller Derby Association Tournament <br />'
+  date:
+    detail: 'March 5, 2017'
+  location:
+    detail: 'Philadelphia, PA'
+  icon: fa-plus-square
+
+- name:
+    detail: 'Flour City Fear vs Shenanigans'
+    i18n: company_a
+  desc:
+    detail: 'Regulation Game against PennJersey Hooligans B-Team'
+    i18n: company_a_desc
+  date:
+    detail: 'May 20, 2017'
+    i18n: company_a_date
+  location:
+    detail: 'Binghampton, NY'
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 'Flour City Fear vs Cleveland, OH vs Portland. ME'
+    i18n: company_b
+  desc:
+    detail: '<strong>Flour City Fear (Rochester, NY)<br />Cleveland Guardians (Cleveland, OH)<br />Casco Bay Gentlemen''s Roller Derby (Portland, ME)</strong><br/> Men''s Roller Derby Association Sanctioned Round Robin'
+    i18n: company_b_desc
+  date:
+    detail: 'June 17, 2017'
+    i18n: company_b_date
+  location:
+    detail: 'Rochester, NY @ The House of Bruise'
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 'Flour City Fear vs @ Quadfathers'
+  desc:
+    detail: 'Men''s Roller Derby Association Regulation game against the Central New York Quadfathers (Rome, NY)'
+  date:
+    detail: 'July 22, 2017'
+  location:
+    detail: 'Rome, NY @ JFK Arena'
+  icon: fa-plus-square
+
+- name:
+    detail: 'Flour City Fear vs Pittsburgh East Roller Villans'
+  desc:
+    detail: 'Men''s Roller Derby Association Sanctioned game against Pittsburgh East Roller Villians of Pittsburgh, PA'
+  date:
+    detail: 'July 29, 2017'
+  location:
+    detail:  'Rochester, NY @ The House of Bruise'
+  icon: fa-plus-square
