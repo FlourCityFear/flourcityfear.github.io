@@ -20,7 +20,7 @@
     detail: 'May 20, 2017'
     i18n: company_a_date
   location:
-    detail: 'Binghampton, NY'
+    detail: 'Binghamton, NY'
     i18n: company_a_job
   icon: fa-plus-square
 
