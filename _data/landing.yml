@@ -1,16 +1,16 @@
 # index page sections
 # custom following lines to edit your index page
-- id: about-me
-  i18n: nav.about_me
-  name: About
-  tpl: about.html
-  css:
+# - id: about-me
+#   i18n: nav.about_me
+#   name: About
+#   tpl: about.html
+#   css:
 
-- id: blog
-  il8n: nav.blog
-  name: Blog
-  tpl: blog.html
-  css: testimonials navy-section
+# - id: blog
+#   il8n: nav.blog
+#   name: Blog
+#   tpl: blog.html
+#   css: testimonials navy-section
 
 - id: schedule
   i18n: nav.schedule
