@@ -1,59 +1,69 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 'March Man-ness Tournament'
+    detail: 'Flour City Fear vs Shenanigans '
   desc:
-    detail: '<strong>Flour City Fear vs Mass Maelstrom</strong><br />Invitational Men''s Roller Derby Association Tournament <br />'
+    detail: 'Regulation Game against Philadelphia Shenanigans B-Team'
   date:
-    detail: 'March 5, 2017'
+    detail: 'March 17, 2018'
   location:
     detail: 'Philadelphia, PA'
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs Shenanigans'
+    detail: 'Flour City Fear vs Blue Streaks'
     i18n: company_a
   desc:
-    detail: 'Regulation Game against PennJersey Hooligans B-Team'
+    detail: 'Regulation Game against Pittsburgh Blue Streaks'
     i18n: company_a_desc
   date:
-    detail: 'May 20, 2017'
+    detail: 'April 28, 2018'
     i18n: company_a_date
   location:
-    detail: 'Binghamton, NY'
+    detail: 'Pittsburgh, PA'
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs Cleveland, OH vs Portland. ME'
+    detail: 'Wheels of Steel'
     i18n: company_b
   desc:
-    detail: '<strong>Flour City Fear (Rochester, NY)<br />Cleveland Guardians (Cleveland, OH)<br />Casco Bay Gentlemen''s Roller Derby (Portland, ME)</strong><br/> Men''s Roller Derby Association Sanctioned Round Robin'
+    detail: 'Tournament'
     i18n: company_b_desc
   date:
-    detail: 'June 17, 2017'
+    detail: 'June 15, 2018'
     i18n: company_b_date
   location:
-    detail: 'Rochester, NY @ The House of Bruise'
+    detail: 'Pittsburgh, PA'
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs @ Quadfathers'
+    detail: 'Flour City Fear vs TBD'
   desc:
-    detail: 'Men''s Roller Derby Association Regulation game against the Central New York Quadfathers (Rome, NY)'
+    detail: 'Hangover from Quadfather's 7/21 game'
   date:
-    detail: 'July 22, 2017'
+    detail: 'July 22, 2018'
   location:
-    detail: 'Rome, NY @ JFK Arena'
+    detail: 'Rome, NY'
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs Pittsburgh East Roller Villans'
+    detail: 'Flour City Fear vs Cleveland Guardians vs Detroit Riot'
   desc:
-    detail: 'Men''s Roller Derby Association Sanctioned game against Pittsburgh East Roller Villians of Pittsburgh, PA'
+    detail: 'Regulation Round Robin'
   date:
-    detail: 'July 29, 2017'
+    detail: 'July 28, 2018'
   location:
-    detail:  'Rochester, NY @ The House of Bruise'
+    detail:  'Cleveland, OH'
+  icon: fa-plus-square
+  
+ - name:
+    detail: 'Flour City Fear vs Bruise Brothers'
+  desc:
+    detail: 'Regulation Game against Chicago Bruise Brothers'
+  date:
+    detail: 'August 18, 2018'
+  location:
+    detail:  'Chicago, IL'
   icon: fa-plus-square
