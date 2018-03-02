@@ -1,30 +1,30 @@
 # links section data
 - last_name: Hoefling
   first_name: Andrew
-  desc: President/Owner
+  desc: Owner
+  website: https://www.google.com
+  email: andrew@flourcityfear.com
+  
+- last_name: Schramm
+  first_name: Chris
+  desc: President
   website: https://www.google.com
   email: president@flourcityfear.com
 
-- last_name: Schramm
-  first_name: Chris
+- last_name: O'Marra
+  first_name: Ryan
   desc: Vice President
   website: http://www.jack003.com/donate/
   email: vicepresident@flourcityfear.com
 
-- last_name: Jones
-  first_name: Rich
+- last_name: Burgler
+  first_name: Justin
   desc: Treasurer
   website: https://github.com
   email: treasurer@flourcityfear.com
 
-- last_name: Stohr
-  first_name: Brian
-  desc: Co-Secretary
-  website: https://www.google.com
-  email: secretary@flourcityfear.com
-
-- last_name: Coniglio 
-  first_name: Jen
-  desc: Co-Secretary
+- last_name: Ingalls
+  first_name: Joshua
+  desc: Secretary
   website: https://www.google.com
   email: secretary@flourcityfear.com
