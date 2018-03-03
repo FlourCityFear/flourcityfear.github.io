@@ -14,7 +14,7 @@
     detail: 'Flour City Fear vs Blue Streaks'
     i18n: company_a
   desc:
-    detail: 'Regulation Game against Pittsburgh Blue Streaks'
+    detail: 'Sanctioned Game against Pittsburgh Blue Streaks'
     i18n: company_a_desc
   date:
     detail: 'April 28, 2018'
@@ -39,9 +39,19 @@
   icon: fa-plus-square
 
 - name:
+    detail: 'Flour City Fear vs Harm City'
+  desc:
+    detail: 'Sanctioned Game against Harm City Roller Derby'
+  date:
+    detail: 'July 7, 2018'
+  location:
+    detail: 'Rochester, NY'
+  icon: fa-plus-square
+
+- name:
     detail: 'Flour City Fear vs TBD'
   desc:
-    detail: 'Hangover from Quadfathers 7/21 game'
+    detail: 'Tentative - Hangover from Quadfathers 7/21 game'
   date:
     detail: 'July 22, 2018'
   location:
@@ -51,7 +61,7 @@
 - name:
     detail: 'Flour City Fear vs Cleveland Guardians vs Detroit Riot'
   desc:
-    detail: 'Regulation Round Robin'
+    detail: 'Sanctioned Round Robin'
   date:
     detail: 'July 28, 2018'
   location:
@@ -61,7 +71,7 @@
 - name:
     detail: 'Flour City Fear vs Bruise Brothers'
   desc:
-    detail: 'Regulation Game against Chicago Bruise Brothers'
+    detail: 'Sanctioned Game against Chicago Bruise Brothers'
   date:
     detail: 'August 18, 2018'
   location:
