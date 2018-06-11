@@ -23,6 +23,16 @@
     detail: 'Pittsburgh, PA'
     i18n: company_a_job
   icon: fa-plus-square
+  
+- name:
+    detail: 'Flour City Fear vs Casco Bay'
+  desc:
+    detail: 'Regulation Game against Casco Bay'
+  date:
+    detail: 'May 19, 2018'
+  location:
+    detail: 'Portland, ME'
+  icon: fa-plus-square
 
 - name:
     detail: 'Wheels of Steel'
@@ -46,16 +56,6 @@
     detail: 'July 7, 2018'
   location:
     detail: 'Rochester, NY'
-  icon: fa-plus-square
-
-- name:
-    detail: 'Flour City Fear vs TBD'
-  desc:
-    detail: 'Tentative - Hangover from Quadfathers 7/21 game'
-  date:
-    detail: 'July 22, 2018'
-  location:
-    detail: 'Rome, NY'
   icon: fa-plus-square
 
 - name:
