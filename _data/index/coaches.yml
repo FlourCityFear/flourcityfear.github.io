@@ -5,3 +5,8 @@
   i18n: Howly
   img: /static/assets/img/landing/coach2018.jpg
   # desc: 'Tenderloin venison jerky ham alcatra capicola sausage meatball prosciutto swine tongue spare ribs pork. Salami pancetta hamburger turkey brisket ball tip sausage andouille bacon flank. Pork chop flank spare ribs, meatloaf frankfurter chicken capicola short ribs. Porchetta biltong tail, picanha tenderloin spare ribs pastrami corned beef chicken prosciutto burgdoggen shankle turducken.'
+
+- name: Bench Coach Double N
+  i18n: Double N
+  img: /static/assets/img/landing/jenn.jpg
+  # desc: 'Tenderloin venison jerky ham alcatra capicola 
