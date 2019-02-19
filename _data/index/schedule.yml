@@ -1,26 +1,40 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: 'Flour City Fear vs Shenanigans '
+    detail: 'Flour City Fear vs Harm City vs Shenanigans '
   desc:
-    detail: 'Regulation Game against Philadelphia Shenanigans B-Team'
+    detail: 'Sanctioned Game against Harm City. Regulation Game against Philadelphia Shenanigans B-Team'
   date:
-    detail: 'March 17, 2018'
+    detail: 'March 9, 2019'
   location:
     detail: 'Philadelphia, PA'
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs Blue Streaks'
+    detail: 'Flour City Fear vs Casco Bay'
     i18n: company_a
   desc:
-    detail: 'Sanctioned Game against Pittsburgh Blue Streaks'
+    detail: 'Sanctioned Game against Casco Bay Roller Derby'
     i18n: company_a_desc
   date:
-    detail: 'April 28, 2018'
+    detail: 'April 6, 2019'
     i18n: company_a_date
   location:
-    detail: 'Pittsburgh, PA'
+    detail: 'Casco Bay, Me'
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+- name:
+    detail: 'Flour City Fear vs Mass Maelstrom'
+    i18n: company_a
+  desc:
+    detail: 'Sanctioned Game against Mass Maelstrom Roller Derby'
+    i18n: company_a_desc
+  date:
+    detail: 'April 7, 2019'
+    i18n: company_a_date
+  location:
+    detail: 'Fitchburg, Ma'
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -28,10 +42,10 @@
     detail: 'Wheels of Steel'
     i18n: company_b
   desc:
-    detail: 'Tournament'
+    detail: 'Sanctioned Tournament'
     i18n: company_b_desc
   date:
-    detail: 'June 15, 2018'
+    detail: 'June 14-16, 2019'
     i18n: company_b_date
   location:
     detail: 'Pittsburgh, PA'
@@ -39,41 +53,31 @@
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs Harm City'
+    detail: 'Flour City Fear vs Cleveland Guardians vs Casco Bay'
   desc:
-    detail: 'Sanctioned Game against Harm City Roller Derby'
+    detail: 'Sanctioned Game against Cleveland Roller Derby and Casco Bay Roller Derby'
   date:
-    detail: 'July 7, 2018'
+    detail: 'June 29, 2019'
   location:
     detail: 'Rochester, NY'
   icon: fa-plus-square
 
 - name:
-    detail: 'Flour City Fear vs TBD'
+    detail: 'Flour City Fear vs Cleveland Guardians vs Capitol District Hooligans vs Detroit Riot'
   desc:
-    detail: 'Tentative - Hangover from Quadfathers 7/21 game'
+    detail: 'Sanctioned Game against Cleveland Roller Derby and Capitol District Roller Derby and Detoirt Roller Derby'
   date:
-    detail: 'July 22, 2018'
+    detail: 'July 13, 2019'
   location:
-    detail: 'Rome, NY'
-  icon: fa-plus-square
-
-- name:
-    detail: 'Flour City Fear vs Cleveland Guardians vs Detroit Riot'
-  desc:
-    detail: 'Sanctioned Round Robin'
-  date:
-    detail: 'July 28, 2018'
-  location:
-    detail:  'Cleveland, OH'
+    detail: 'Cleveland, OH'
   icon: fa-plus-square
   
 - name:
-    detail: 'Flour City Fear vs Bruise Brothers'
+    detail: 'Flour City Fear vs TBD'
   desc:
-    detail: 'Sanctioned Game against Chicago Bruise Brothers'
+    detail: 'Sanctioned Game against TBD'
   date:
-    detail: 'August 18, 2018'
+    detail: 'August 3, 2019'
   location:
-    detail:  'Chicago, IL'
+    detail:  'Rochester, NY'
   icon: fa-plus-square
