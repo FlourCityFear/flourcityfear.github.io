@@ -20,7 +20,7 @@
     detail: 'April 6, 2019'
     i18n: company_a_date
   location:
-    detail: 'Casco Bay, Me'
+    detail: 'Casco Bay, ME'
     i18n: company_a_job
   icon: fa-plus-square
   
@@ -34,7 +34,7 @@
     detail: 'April 7, 2019'
     i18n: company_a_date
   location:
-    detail: 'Fitchburg, Ma'
+    detail: 'Fitchburg, MA'
     i18n: company_a_job
   icon: fa-plus-square
 
