@@ -2,55 +2,43 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Rad
-  img: /static/assets/img/landing/rad.png
+  img: /static/assets/img/landing/rad2019.png
 
 - name: Torque Chop
-  img: /static/assets/img/landing/torque-chop.png
+  img: /static/assets/img/landing/torque2019.png
 
 - name: Chris Schramm
-  img: /static/assets/img/landing/schramm2018.jpg
+  img: /static/assets/img/landing/chris2019.png
 
 - name: Dick Move
-  img: /static/assets/img/landing/dick2018.jpg
-
-- name: Cashman
-  img: /static/assets/img/landing/cashman.png
-
-- name: Apex Predator
-  img: /static/assets/img/landing/apex-predator.png
-
-- name: Aaron Schirano
-  img: /static/assets/img/landing/schirano.png
+  img: /static/assets/img/landing/dick2019.png
 
 - name: Shawn West
-  img: /static/assets/img/landing/west2018.jpg
+  img: /static/assets/img/landing/west2019.png
 
 - name: Mic Drop
-  img: /static/assets/img/landing/mic2018.jpg
+  img: /static/assets/img/landing/mic2019.png
+      
+- name: Toxic Beveridge
+  img: /static/assets/img/landing/toxic2019.png
 
 - name: Sir Jon
-  img: /static/assets/img/landing/jon2018.jpg
+  img: /static/assets/img/landing/sirjon2019.png
   
 - name: Jacked Skellington
-  img: /static/assets/img/landing/jack2018.jpg
+  img: /static/assets/img/landing/jack2019.png
+    
+- name: I.C. Bonez
+  img: /static/assets/img/landing/bonez2019.png
 
 - name: Giles
-  img: /static/assets/img/landing/giles2018.jpg
+  img: /static/assets/img/landing/giles2019.png
 
 - name: Davie Darko
-  img: /static/assets/img/landing/davie2018.jpg
+  img: /static/assets/img/landing/davie2019.png
 
 - name: Patty O'Furniture 
   img: /static/assets/img/landing/patty2018.jpg
-
-- name: Foe Paws
-  img: /static/assets/img/landing/paws2018.jpg
-
-- name: Ron Beastley
-  img: /static/assets/img/landing/ron2018.jpg
-
-- name: Stabbity Ann
-  img: /static/assets/img/landing/stabs2018.jpg
   
 - name: King Killa
-  img: /static/assets/img/landing/killa2018.jpg
+  img: /static/assets/img/landing/killa2019.png
