@@ -37,6 +37,20 @@
     detail: 'Fitchburg, MA'
     i18n: company_a_job
   icon: fa-plus-square
+  
+- name:
+    detail: 'Mohawk Valley Cup'
+    i18n: company_b
+  desc:
+    detail: 'Sanctioned Tournament'
+    i18n: company_b_desc
+  date:
+    detail: 'May 25-26, 2019'
+    i18n: company_b_date
+  location:
+    detail: 'Rome, NY'
+    i18n: company_b_job
+  icon: fa-plus-square
 
 - name:
     detail: 'Wheels of Steel'
