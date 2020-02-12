@@ -1,10 +1,15 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Head Coach Howley
-  i18n: Howly
-  img: /static/assets/img/landing/coach2019.png
-  # desc: 'Tenderloin venison jerky ham alcatra capicola sausage meatball prosciutto swine tongue spare ribs pork. Salami pancetta hamburger turkey brisket ball tip sausage andouille bacon flank. Pork chop flank spare ribs, meatloaf frankfurter chicken capicola short ribs. Porchetta biltong tail, picanha tenderloin spare ribs pastrami corned beef chicken prosciutto burgdoggen shankle turducken.'
+- name: Co-Head Coach Betty Machete
+  i18n: Betty
+  img: /static/assets/img/landing/generic-person.png
+  # desc: 'Tenderloin venison jerky ham alcatra capicola
+
+- name: Co-Head Coach Ubebee
+  i18n: Ubebee
+  img: /static/assets/img/landing/generic-person.png
+  # desc: 'Tenderloin venison jerky ham alcatra capicola
 
 - name: Bench Coach Double N
   i18n: Double N

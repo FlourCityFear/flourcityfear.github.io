@@ -82,7 +82,7 @@ For example: URL is `http://127.0.0.1:4000/python/`. In `_data/blog.yml`, we def
 ```html
 <div class="row">
     <div class="col-lg-12 text-center">
-        <div class="navy-line"></div>
+        <div class="fcfp-line"></div>
         {% assign category = page.url | remove:'/' | capitalize %}
         {% if category == 'Html' %}
         {% assign category = category | upcase %}

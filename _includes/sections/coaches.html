@@ -1,7 +1,7 @@
 <div class="container" id="i18_projects">
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
-            <div class="navy-line"></div>
+            <div class="fcfp-line"></div>
             <h1><span data-i18n="projects.my_projects">Coaches</span></h1>
         </div>
     </div>
@@ -21,9 +21,9 @@
                   <img src="{{ coach.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
                   <h4>
                   {% if coach.repo %}
-                  <a href="https://github.com/{{ coach.gh_user }}/{{ coach.repo }}" target="_blank"><span class="navy">{{ coach.name }}</span></a>
+                  <a href="https://github.com/{{ coach.gh_user }}/{{ coach.repo }}" target="_blank"><span class="fcfp">{{ coach.name }}</span></a>
                   {% else %}
-                  <span class="navy">{{ coach.name }}</span>
+                  <span class="fcfp">{{ coach.name }}</span>
                   {% endif %}
                   </h4>
                   <p><span data-i18n="coaches.{{ coach.i18n }}">{{ coach.desc }}</span></p>
