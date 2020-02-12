@@ -15,21 +15,21 @@
 
 - name: "#13 Rad"
   img: /static/assets/img/landing/rad2019.png
-  
+
 - name: "#16 King Killa"
   img: /static/assets/img/landing/killa2019.png
-      
+
 - name: "#28 Davie Darko"
   img: /static/assets/img/landing/davie2019.png
 
 - name: "#317 Patty O'Furniture"
   img: /static/assets/img/landing/patty2018.jpg
-  
-- name: "#421 Boom Stick"
-  img: /static/assets/img/landing/generic-person.png
-  
+
 - name: "#34 I.C. Bonez"
   img: /static/assets/img/landing/bonez2019.png
+
+- name: "#421 Boom Stick"
+  img: /static/assets/img/landing/generic-person.png
 
 - name: "#607 West"
   img: /static/assets/img/landing/west2019.png
