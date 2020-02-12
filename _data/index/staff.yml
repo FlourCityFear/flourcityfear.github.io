@@ -2,29 +2,29 @@
 - last_name: Jones
   first_name: Rich
   desc: Owner
-  website: https://www.google.com
-  email: andrew@flourcityfear.com
+  website: https://www.flourcityfear.com
+  email: info@flourcityfear.com
   
 - last_name: Schramm
   first_name: Chris
   desc: President
-  website: https://www.google.com
+  website: https://www.flourcityfear.com
   email: president@flourcityfear.com
-
-- last_name: Ward
-  first_name: David
-  desc: Vice President
-  website: http://www.jack003.com/donate/
-  email: vicepresident@flourcityfear.com
-
-- last_name: Burglers
-  first_name: Justin
-  desc: Treasurer
-  website: https://github.com
-  email: treasurer@flourcityfear.com
 
 - last_name: O'Marra
   first_name: Ryan
+  desc: Vice President
+  website: https://www.flourcityfear.com
+  email: vicepresident@flourcityfear.com
+
+- last_name: Ingalls
+  first_name: Joshua
+  desc: Treasurer
+  website: https://www.flourcityfear.com
+  email: treasurer@flourcityfear.com
+
+- last_name: Ward
+  first_name: David
   desc: Secretary
-  website: https://www.google.com
+  website: https://www.flourcityfear.com
   email: secretary@flourcityfear.com

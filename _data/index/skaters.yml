@@ -1,44 +1,50 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Rad
-  img: /static/assets/img/landing/rad2019.png
+- name: "#0 Jacked Skellington"
+  img: /static/assets/img/landing/jack2019.png
 
-- name: Torque Chop
+- name: "#007 Onyx Overkill"
+  img: /static/assets/img/landing/generic-person.png
+
+- name: "#111 Torque Chop"
   img: /static/assets/img/landing/torque2019.png
 
-- name: Chris Schramm
-  img: /static/assets/img/landing/chris2019.png
-
-- name: Dick Move
-  img: /static/assets/img/landing/dick2019.png
-
-- name: Shawn West
-  img: /static/assets/img/landing/west2019.png
-
-- name: Mic Drop
-  img: /static/assets/img/landing/mic2019.png
-      
-- name: Toxic Beveridge
-  img: /static/assets/img/landing/toxic2019.png
-
-- name: Sir Jon
-  img: /static/assets/img/landing/sirjon2019.png
-  
-- name: Jacked Skellington
-  img: /static/assets/img/landing/jack2019.png
-    
-- name: I.C. Bonez
-  img: /static/assets/img/landing/bonez2019.png
-
-- name: Giles
+- name: "#1127 Giles"
   img: /static/assets/img/landing/giles2019.png
 
-- name: Davie Darko
+- name: "#13 Rad"
+  img: /static/assets/img/landing/rad2019.png
+  
+- name: "#16 King Killa"
+  img: /static/assets/img/landing/killa2019.png
+      
+- name: "#28 Davie Darko"
   img: /static/assets/img/landing/davie2019.png
 
-- name: Patty O'Furniture 
+- name: "#317 Patty O'Furniture"
   img: /static/assets/img/landing/patty2018.jpg
   
-- name: King Killa
-  img: /static/assets/img/landing/killa2019.png
+- name: "#421 Boom Stick"
+  img: /static/assets/img/landing/generic-person.jpg
+  
+- name: "#34 I.C. Bonez"
+  img: /static/assets/img/landing/bonez2019.png
+
+- name: "#607 West"
+  img: /static/assets/img/landing/west2019.png
+
+- name: "#69 Schramm"
+  img: /static/assets/img/landing/chris2019.png
+
+- name: "#716 Krazy Kouch"
+  img: /static/assets/img/landing/generic-person.png
+
+- name: "#77 Dick Move"
+  img: /static/assets/img/landing/dick2019.png
+
+- name: "#9 Mic Drop"
+  img: /static/assets/img/landing/mic2019.png
+
+- name: "#940 Michael Mac"
+  img: /static/assets/img/landing/generic-person.png

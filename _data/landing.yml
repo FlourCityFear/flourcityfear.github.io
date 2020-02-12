@@ -10,7 +10,7 @@
 #   il8n: nav.blog
 #   name: Blog
 #   tpl: blog.html
-#   css: testimonials navy-section
+#   css: testimonials fcfp-section
 
 - id: schedule
   i18n: nav.schedule
