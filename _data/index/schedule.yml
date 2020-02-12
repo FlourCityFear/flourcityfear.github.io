@@ -2,70 +2,98 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: 'Flour City Fear vs Philadelphia Hooligans'
+    i18n: company_a
   desc:
     detail: 'Sanctioned Game aginst Philadelphia Hooligans'
+    i18n: company_a_desc
   date:
     detail: 'Saturday, April 4, 2020'
+    i18n: company_a_date
   location:
     detail: 'Philadelphia, PA'
+    i18n: company_a_job
   icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear Bowling Fundraiser'
+    i18n: company_b
   desc:
     detail: 'Have fun supporting your local MRDA roller derby team!'
+    i18n: company_b_desc
   date:
     detail: 'Saturday, April 18, 2020'
+    i18n: company_b_date
   location:
     detail: 'Bowl-A-Roll Lanes, Rochester, NY'
+    i18n: company_b_job
   icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear at Mohawk Valley Cup'
+    i18n: company_c
   desc:
     detail: 'Multi-team MRDA Sanctioned Tournament.'
+    i18n: company_c_desc
   date:
     detail: 'Saturday-Sunday, May 9-10, 2020'
+    i18n: company_c_date
   location:
     detail: 'Kennedy Arena, Rome, NY'
+    i18n: company_c_job
   icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear at Roller Derby Tournament'
+    i18n: company_d
   desc:
     detail: 'Multi-team MRDA Sanctioned Tournament.'
+    i18n: company_d_desc
   date:
     detail: 'Friday-Sunday, June 12-14, 2020'
+    i18n: company_d_date
   location:
     detail: 'Cleveland, OH'
+    i18n: company_d_job
   icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear Round-Robin Event'
+    i18n: company_e
   desc:
     detail: '3 MRDA teams vs each other in 3 games'
+    i18n: company_e_desc
   date:
     detail: 'Saturday, July 25, 2020'
+    i18n: company_e_date
   location:
     detail: 'Genesee Valley Sports Complex, Rochester, NY'
+    i18n: company_e_job
   icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear vs TBD'
+    i18n: company_f
   desc:
     detail: 'Sanctioned Game against TBD'
+    i18n: company_f_desc
   date:
     detail: 'Saturday, August 15, 2020'
+    i18n: company_f_date
   location:
     detail: 'Genesee Valley Sports Complex, Rochester, NY'
+    i18n: company_f_job
   icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear vs Pittsburgh United Undead'
+    i18n: company_g
   desc:
     detail: 'Game aginst Pittsburgh Undead'
+    i18n: company_g_desc
   date:
     detail: 'Saturday, September 25, 2020'
+    i18n: company_g_date
   location:
     detail: 'Erie, PA'
+    i18n: company_g_job
   icon: fa-plus-square
