@@ -1,17 +1,17 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Co-Head Coach Betty Machete
-  i18n: Betty
+- name: Coach Betty Machete
+  i18n: Coach Betty Machete
   img: /static/assets/img/landing/generic-person.png
   # desc: 'Tenderloin venison jerky ham alcatra capicola
 
-- name: Co-Head Coach Ubebee
-  i18n: Ubebee
+- name: Coach Ubebee
+  i18n: Coach Ubebee
   img: /static/assets/img/landing/generic-person.png
   # desc: 'Tenderloin venison jerky ham alcatra capicola
 
-- name: Bench Coach Double N
-  i18n: Double N
+- name: Coach Double N
+  i18n: Coach Double N
   img: /static/assets/img/landing/doublen2019.png
   # desc: 'Tenderloin venison jerky ham alcatra capicola 
