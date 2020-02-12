@@ -48,6 +48,7 @@
     detail: 'Saturday, July 25, 2020'
   location:
     detail: 'Genesee Valley Sports Complex, Rochester, NY'
+  icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear vs TBD'
@@ -57,6 +58,7 @@
     detail: 'Saturday, August 15, 2020'
   location:
     detail: 'Genesee Valley Sports Complex, Rochester, NY'
+  icon: fa-plus-square
 
 - name:
     detail: 'Flour City Fear vs Pittsburgh United Undead'
