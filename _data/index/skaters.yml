@@ -40,6 +40,9 @@
 - name: "#716 Krazy Kouch"
   img: /static/assets/img/landing/generic-person.png
 
+- name: "#76 Williams"
+  img: /static/assets/img/landing/generic-person.png
+
 - name: "#77 Dick Move"
   img: /static/assets/img/landing/dick2019.png
 
@@ -48,6 +51,3 @@
 
 - name: "#940 Michael Mac"
   img: /static/assets/img/landing/generic-person.png
-
-- name: ""
-  img: /static/assets/img/landing/1x1-whitespace.png
