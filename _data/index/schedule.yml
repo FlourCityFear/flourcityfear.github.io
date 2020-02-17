@@ -3,7 +3,7 @@
 - name:
     detail: 'Flour City Fear vs Philadelphia Hooligans'
   desc:
-    detail: 'Sanctioned Game against Philadelphia Hooligans'
+    detail: 'Sanctioned game against Philadelphia Hooligans'
   date:
     detail: 'Saturday, April 4, 2020'
   location:
@@ -23,7 +23,7 @@
 - name:
     detail: 'Flour City Fear at Mohawk Valley Cup'
   desc:
-    detail: 'Multi-team MRDA Sanctioned Tournament'
+    detail: 'MRDA Sanctioned Tournament with Austin Anarchy, Chicago Bruise Brothers, Mass Maelstrom, MVRD Quadfathers, Philly Hooligans, Toronto Outrage, and Twin City Terrors'
   date:
     detail: 'Saturday-Sunday, May 9-10, 2020'
   location:
@@ -33,7 +33,7 @@
 - name:
     detail: 'Flour City Fear at Roller Derby Tournament'
   desc:
-    detail: 'Multi-team MRDA Sanctioned Tournament'
+    detail: "MRDA Sanctioned Tournament with Montreal Mont Royals, Cleveland Guardians, Capital City Hooligans, Central State Roller Derby, Atlanta Men's Roller Derby, Pittsburgh United Undead, and Wisconsin Roller Derby"
   date:
     detail: 'Friday-Sunday, June 12-14, 2020'
   location:
@@ -53,7 +53,7 @@
 - name:
     detail: 'Flour City Fear vs TBD'
   desc:
-    detail: 'Sanctioned Game against TBD'
+    detail: 'Game against TBD'
   date:
     detail: 'Saturday, August 15, 2020'
   location:
