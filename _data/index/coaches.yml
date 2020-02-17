@@ -6,12 +6,12 @@
   img: /static/assets/img/landing/generic-person.png
   # desc: 'Tenderloin venison jerky ham alcatra capicola
 
-- name: Coach Ubebee
-  i18n: Coach Ubebee
-  img: /static/assets/img/landing/generic-person.png
-  # desc: 'Tenderloin venison jerky ham alcatra capicola
-
 - name: Coach Double N
   i18n: Coach Double N
   img: /static/assets/img/landing/doublen2019.png
   # desc: 'Tenderloin venison jerky ham alcatra capicola 
+
+- name: Coach Ubebee
+  i18n: Coach Ubebee
+  img: /static/assets/img/landing/generic-person.png
+  # desc: 'Tenderloin venison jerky ham alcatra capicola
